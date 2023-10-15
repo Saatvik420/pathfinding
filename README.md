@@ -1,1 +1,1 @@
-# pathfinding
+# PathFinding.github.io
